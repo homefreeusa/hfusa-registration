@@ -1,3 +1,6 @@
 button.mat-focus-indicator.back-button.mat-icon-button.mat-button-base {
-  display: none ! important ;   
+    display: none; 
+}    
+i.material-icons {
+    display: none; 
 }
